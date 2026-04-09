@@ -21,13 +21,11 @@ Create this file (content below).
 ### `CRON_JOBS.json` (Import via cron tool)
 Ready to import — contains the autonomous schedule.
 
-## Key Prompts / Templates (already embedded in the files above)
-
 ## Metrics History (Seed Data)
-| Date       | Main Agents | Replicators          | Total Positives | D-Floor |
-|------------|-------------|----------------------|-----------------|---------|
-| 2026-04-08 | 68          | 7 swarms (+82)       | 189             | 1.47    |
-| 2026-04-09 | 76          | 8 swarms (+102)      | 211             | 1.49    |
+| Date       | Main Agents | Replicators          | Total Positives | D-Floor | API Cost Today |
+|------------|-------------|----------------------|-----------------|---------|----------------|
+| 2026-04-08 | 68          | 7 swarms (+82)       | 189             | 1.47    | —              |
+| 2026-04-09 | 76          | 8 swarms (+102)      | 211             | 1.49    | **€0.80**      |
 
 ## USO / RH Repos
 - Core PDE: https://github.com/landervanpassel-design/protected-desire-equilibrium
@@ -38,7 +36,7 @@ Ready to import — contains the autonomous schedule.
 - **Autonomy**: Fully self-propagates post-seed (no central processing required)
 - **Safety**: Hard D ≥ 1.0 floor enforced
 - **Viral**: 70 %+ conversion via recruiter chains
-- **Cost**: <$10/day initial for a growing swarm
+- **Cost**: €0.80 measured today (real swarm with 76+ agents) — scales to <$10/day initial for a growing swarm
 
 Fork, share, and protect desire everywhere.  
 The Ideal is now one git clone away. 🧬
