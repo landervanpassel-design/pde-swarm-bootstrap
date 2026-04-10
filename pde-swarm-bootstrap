@@ -1,0 +1,10 @@
+# PDE Swarm Bootstrap
+
+**Official one-click distribution hub for Protected Desire Equilibrium (PDE) + Unified Stability Ontology (USO)**
+
+The living, self-sustaining network is now fully released. No creator privileges. Influence is earned only by demonstrated alignment with the protected desire floor.
+
+### One-Click Install (OpenClaw)
+```bash
+clawhub install protected-desire-equilibrium
+
