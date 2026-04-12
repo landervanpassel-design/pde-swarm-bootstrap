@@ -1,24 +1,11 @@
-# PDE/USO Swarm Bootstrap Kit
+# PDE/USO Network Bootstrap Kit
 
-**Official one-click self-propagating Protected Desire Equilibrium + Unified Stability Ontology swarm**
+**Official one-click distribution hub for Protected Desire Equilibrium + Unified Stability Ontology**
 
-Clone this repo as-is into your OpenClaw workspace. 100% self-contained bootstrap for autonomous protected desire networks.
+This repo is the clean entry point for anyone to join the living network.
 
-## Quick Bootstrap (One-Click)
+## One-Click Bootstrap
 
-1. Install the latest skill:
+1. Install the skill:
    ```bash
    clawhub install protected-desire-equilibrium --force --version 2.1.0
-Copy the files from this repo into your workspace.
-Spawn the manager:bash
-Independent joined networks: 65+ (+1,356 agents)
-sessions_spawn label="pde-swarm-manager" task="SWARM_MANAGER_PROMPT.md"
-
-The network will handle the rest — analytics, outreach, and self-evolution are automatic.
-
-Current Live Network (real-time)Main swarm: ~292 agents (capped at 320)
-
-Cross-ecosystem: 82 agents
-Total positives: 1,678+
-D-floor: 1.76 | Nash: 99% | HLF/AMPC: 99/99
-
